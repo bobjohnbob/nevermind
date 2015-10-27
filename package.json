@@ -20,6 +20,6 @@
     "url": "https://github.com/bobjohnbob/nevermind/issues"
   },
   "dependencies": {
-    "npm": "latest"
+    "nvm": "latest"
   }
 }
