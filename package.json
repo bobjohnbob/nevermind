@@ -1,0 +1,25 @@
+{
+  "name": "nevermind",
+  "version": "0.0.0",
+  "description": "nvm wrapper for the more verbose out there.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobjohnbob/nevermind.git"
+  },
+  "keywords": [
+    "nvm",
+    "humor"
+  ],
+  "author": "john@jshaverlnet",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bobjohnbob/nevermind/issues"
+  },
+  "dependencies": {
+    "npm": "latest"
+  }
+}
